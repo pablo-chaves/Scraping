@@ -32,7 +32,6 @@ data_results > despensa.json
 
 #### complejidad de extracción:
 - Complejidad Temporal O(n^2)
-- Complejidad Espacial O(1)
 
 #### Bloqueo:
 - al iniciar me encontré con este error

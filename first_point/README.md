@@ -31,7 +31,7 @@ data_results > despensa.json
 ### Notas finales
 
 #### complejidad de extracción:
-- Complejidad Temporal O(n^2)
+- Complejidad Temporal O(n)
 
 #### Bloqueo:
 - al iniciar me encontré con este error

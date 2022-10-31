@@ -33,7 +33,7 @@ data_results > result.json
 ### Notas finales
 
 #### complejidad de extracción:
-- Complejidad Temporal O(n^2)
+- Complejidad Temporal O(n)
 
 #### Bloqueo o algunas incidencias:
 - No hubo ningún bloqueo por parte de la página web.
